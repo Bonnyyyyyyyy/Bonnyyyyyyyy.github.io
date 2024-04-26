@@ -28,7 +28,7 @@
         const image_win = new Image();
         image_win.src = "Win.png";
 
-        var miniGiochi = ["RR", "Tris", "RIFLESSI", "Memory", "SCF"];
+        var miniGiochi = ["RR", "Tris", "Riflessi", "Memory", "SCF"];
 
         //Creiamo un oggetto 'object', con sue proprietà e funzioni
         function object (image, x, y, width, height) {
